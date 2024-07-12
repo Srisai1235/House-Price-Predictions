@@ -1,2 +1,2 @@
 # House-Price-Predictions
-Using Simple Linear Regression
+Using Simple Linear Regressio
